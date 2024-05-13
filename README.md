@@ -12,3 +12,13 @@ number if `1234` is being used by another application.
 - Navigate into the project folder.
 - Run `npm install` to download the project's dependencies.
 - Run `npm start` to compile the project and spin up a dev server on `localhost`.
+
+
+function makeImage(imgURL){ 
+ 
+ const imageMain = document.createElement("img"); 
+  console.log(imgURL);}
+
+imageData.forEach(imgObJ => {
+  const makeImage(imgObJ); 
+  document.body.prepend(makeImage);})
